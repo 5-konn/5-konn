@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
-<h3 align="center">In college, taking Bachelor of Science in Information Technology</h3>
+<h3 align="center">Beginner programmer currently in college, taking Bachelor of Science in Information Technology</h3>
 
 - 📚 I'm currently learning JavaScript and ReactJS.
 - 📧 How to reach me: magdaraogjmr@gmail.com
